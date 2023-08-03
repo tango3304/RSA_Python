@@ -3,6 +3,6 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "tango_rsa"
+name = "trsa"
 version = "2023.08.03"
 description = "RSA Cipher"
